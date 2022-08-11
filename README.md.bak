@@ -8,9 +8,9 @@ https://github.com/Drakensburg/CMPG-323-Overview---34588353
 ## Branching Strategy
 A GitHub Flow branching strategy will be emplyed throughout the projects' development.  
 The Following Guidelines Apply:  
-  [.]A Primary branch where all code will be branched off from. This is the Master Branch.  
-  [.]New Branches will be created for bugs and features.  
-  [.]When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch.  
+[.]A Primary branch where all code will be branched off from. This is the Master Branch.  
+[.]New Branches will be created for bugs and features.  
+[.]When code is reviewed and approved it will be merged to the Master Branch and deployed to the Master Branch.  
 
 ## GitIgnore File
 By ignoring certain files when commiting projects to GitHub Repositories, will alllow the protection of confidential information from being leaked.
