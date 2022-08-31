@@ -4,10 +4,10 @@ Contains an overview of my plans and projects for CMPG 323 in 2022.
 ## Repositories
 All Projects done will be managed underneath these repositories:<br />
 https://github.com/Drakensburg/CMPG-323-Overview---34588353<br />
-https://github.com/Drakensburg/Project-2---C323<br />
-https://github.com/Drakensburg/Project-3---C323<br />
-https://github.com/Drakensburg/Project-4---C323<br />
-https://github.com/Drakensburg/Project-5---C323
+https://github.com/Drakensburg/Project-2---C323---34588353<br />
+https://github.com/Drakensburg/Project-3---C323---34588353<br />
+https://github.com/Drakensburg/Project-4---C323---34588353<br />
+https://github.com/Drakensburg/Project-5---C323---34588353
 
 ## Branching Strategy
 A GitHub Flow branching strategy will be emplyed throughout the projects' development.<br />
